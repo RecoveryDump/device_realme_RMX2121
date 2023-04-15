@@ -1,0 +1,21 @@
+boot magic: ANDROID!
+kernel_size: 15537741
+kernel load address: 0x40080000
+ramdisk size: 31403485
+ramdisk load address: 0x47c80000
+second bootloader size: 0
+second bootloader load address: 0x00000000
+kernel tags load address: 0x4bc80000
+page size: 2048
+os version: 12.0.0
+os patch level: 2022-12
+boot image header version: 2
+product name: 
+command line args: bootopt=64S3,32N2,64N2 buildvariant=user
+additional command line args: 
+recovery dtbo size: 575340
+recovery dtbo offset: 0x0000000002cc5000
+boot header size: 1660
+dtb size: 198617
+dtb address: 0x000000004bc80000
+ramdisk format: gzip
